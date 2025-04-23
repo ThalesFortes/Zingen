@@ -24,7 +24,7 @@
   display: none;
 }
 
-.evens-columns {
+.even-columns {
   display: grid;
   gap: 1rem;
 }
@@ -58,7 +58,7 @@
     display: initial;
   }
 
-  .evens-columns{
+  .even-columns{
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
   }
