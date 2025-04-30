@@ -28,10 +28,10 @@
 <h2 id="layout">🎨 Layout Mobile</h2>
 
 <p align="center">
-      <img src="./readmeIMG/mobileScreen-0.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height=300px">
-      <img src="./readmeIMG/mobileScreen-1.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height=300px">
-      <img src="./readmeIMG/mobileScreen-2.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height=300px">
-      <img src="./readmeIMG/mobileScreen-3.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height=300px">
+      <img src="./readmeIMG/mobileScreen-0.png" alt="Imagem da pagina demonstrando como ela e" width="200px" height=300px">
+      <img src="./readmeIMG/mobileScreen-1.png" alt="Imagem da pagina demonstrando como ela e" width="200px" height=300px">
+      <img src="./readmeIMG/mobileScreen-2.png" alt="Imagem da pagina demonstrando como ela e" width="200px" height=300px">
+      <img src="./readmeIMG/mobileScreen-3.png" alt="Imagem da pagina demonstrando como ela e" width="200px" height=300px">
       <img src="./readmeIMG/mobileScreen-4.png" alt="Imagem da pagina demonstrando como ela e" width="400px" height=300px">
 </p>
 
