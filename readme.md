@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Escola do Amanhã - Matricula💻</h1>
+<h1 align="center" style="font-weight: bold;">Zingen - Karaokê💻</h1>
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-     <a href="">📱 Visit this Project</a>
+     <a href="https://thalesfortes.github.io/Zingen/">📱 Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Layout Web</h2>
